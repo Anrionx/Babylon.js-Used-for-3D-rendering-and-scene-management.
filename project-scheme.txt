@@ -1,0 +1,55 @@
+|   background.js
+|   cd
+|   clear
+|   commands.js
+|   effects.js
+|   index.html
+|   package-lock.json
+|   package.json
+|   project-scheme.txt
+|   script.js
+|   style.css
+|   
++---models
+|   |   model.glb
+|   |   
+|   \---textures
+|       |   ground.png
+|       |   
+|       \---columns
+|               column.png
+|               fire.png
+|               laser.png
+|               smoke.png
+|               
++---music
+|       background.mp3
+|       background.ogg
+|       
+\---node_modules
+    |   .package-lock.json
+    |   LICENSE
+    |   
+    \---babylonjs
+        |   .npmignore
+        |   babylon.d.ts
+        |   babylon.js
+        |   babylon.js.map
+        |   babylon.max.js
+        |   babylon.module.d.ts
+        |   config.json
+        |   license.md
+        |   NOTICE.md
+        |   package.json
+        |   readme.md
+        |   tsconfig.build.json
+        |   tsconfig.json
+        |   webpack.config.js
+        |   
+        +---scripts
+        |       checkNoChunks.js
+        |       postinstall.js
+        |       
+        \---src
+                index.ts
+                
